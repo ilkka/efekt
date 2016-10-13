@@ -1,4 +1,4 @@
-package com.pepperoniapptemplate;
+package com.efekt;
 
 import android.app.Application;
 import android.util.Log;
